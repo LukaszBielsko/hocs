@@ -1,5 +1,11 @@
+html {
+  background-color: #282c34;
+  color: white
+}
 .App {
+  margin-top: 30%;
   text-align: center;
+  background-color: #282c34;
 }
 
 .App-logo {
